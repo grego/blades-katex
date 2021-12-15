@@ -1,0 +1,16 @@
+{
+  "name": "blades-katex",
+  "version": "0.1.0",
+  "description": "KaTeX renderer for Blades static site generator",
+  "type": "module",
+  "main": "bin/index.js",
+  "bin": {
+    "blades-katex": "bin/index.js"
+  },
+  "repository": "https://github.com/grego/blades-katex",
+  "author": "Maros Grego",
+  "license": "MIT",
+  "dependencies": {
+    "katex": "^0.15.1"
+  }
+}
